@@ -4,7 +4,11 @@
 
 ### *The Future of Intelligence — Open Source, Open Mind*
 
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+Building+AGI+For+Everyone;%F0%9F%94%84+Open+Source+AI+Agent+Platform;%F0%9F%9A%80+500%2B+Tools.+Infinite+Possibilities." alt="ZYRAXON AI" />
+
+
 
 <br/>
 
@@ -17,6 +21,7 @@
 <a href="https://github.com/onelpawarai-X/Zyraxon-Code">
 <img src="https://img.shields.io/badge/Zyraxon--Code-Editor-9B59B6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Zyraxon Code" />
 </a>
+
 
 <br/>
 
