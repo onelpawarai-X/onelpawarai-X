@@ -14,7 +14,7 @@
 
 <br/>
 <a href="https://groups.google.com/g/onelpawarai-x">
-<img src="https://img.shields.io/badge/ZYRAXON--AI-Core-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="ZYRAXON AI" />
+<img src="https://img.shields.io/badge/ZYRAXON--AI-group-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="ZYRAXON AI" />
 </a>
 <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
 <img src="https://img.shields.io/badge/ZYRAXON--AI-Core-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="ZYRAXON AI" />
