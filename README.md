@@ -38,14 +38,3 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:7C3AED&height=6"/>
 
 </div>
-
-
----
-
-<div align="center">
-
-## ⚡ Building the Future, One Commit at a Time
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0B1220,35:00D4FF,70:7C3AED,100:FF6B35&text=ZYRAXON%20AI&fontSize=34&fontColor=FFFFFF&animation=twinkling"/>
-
-</div>
