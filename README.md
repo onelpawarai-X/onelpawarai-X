@@ -39,10 +39,6 @@
 
 </div>
 
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action below to generate the animation automatically.
-
 ```md
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onelpawarai-X/onelpawarai-X/output/github-contribution-grid-snake-dark.svg">
