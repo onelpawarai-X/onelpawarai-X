@@ -59,26 +59,3 @@
 **AI should not stop at generating an answer.**
 
 An intelligent agent should be able to understand a goal, reason through steps, select the right tools, execute code, observe outcomes, recover from failures, and verify the final result.
-
-```mermaid
-flowchart TD
-    A[USER GOAL] --> B[UNDERSTAND & PLAN]
-    B --> C[ZYRAXON CORE AGENT<br/><i>Reasoning · Tools · Memory · MCP</i>]
-    C --> D[EXECUTE ACTIONS]
-    D --> E[OBSERVE OUTCOMES]
-    E --> F[VERIFY & VALIDATE]
-    
-    F -->|PASS| G[FINAL RESULT]
-    F -->|FAIL| H[ITERATE & FIX]
-    H -->|RE-TRY| D
-
-    linkStyle default stroke:#38BDF8,stroke-width:1.5px;
-
-    style A fill:#0F172A,stroke:#38BDF8,stroke-width:1.5px,color:#F8FAFC
-    style B fill:#0F172A,stroke:#38BDF8,stroke-width:1.5px,color:#F8FAFC
-    style C fill:#1E1B4B,stroke:#A78BFA,stroke-width:2px,color:#FFFFFF
-    style D fill:#0F172A,stroke:#38BDF8,stroke-width:1.5px,color:#F8FAFC
-    style E fill:#0F172A,stroke:#38BDF8,stroke-width:1.5px,color:#F8FAFC
-    style F fill:#0F172A,stroke:#38BDF8,stroke-width:1.5px,color:#F8FAFC
-    style G fill:#064E3B,stroke:#34D399,stroke-width:2px,color:#FFFFFF
-    style H fill:#4C0519,stroke:#FB7185,stroke-width:2px,color:#FFFFFF
