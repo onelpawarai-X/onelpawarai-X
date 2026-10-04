@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <a href="https://github.com/onelpawarai-X">
+  <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZYRAXON%20AI&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:050816,45:071B3A,72:123C69,100:4C1D95" width="100%" alt="Zyraxon AI Banner"/>
   </a>
 
@@ -16,15 +16,23 @@
 
   <br/><br/>
 
-  <!-- Category Badges -->
-  <img src="https://img.shields.io/badge/AI__AGENT-0B1220?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/OPEN__SOURCE-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/MCP__READY-0B1220?style=for-the-badge&logo=protocol&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/AGENT__ENGINEERING-0B1220?style=for-the-badge&logo=docker&logoColor=22D3EE"/>
+  <!-- Category Badges with Exact Navigation Links -->
+  <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
+    <img src="https://img.shields.io/badge/AI__AGENT-0B1220?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="AI Agent"/>
+  </a>
+  <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
+    <img src="https://img.shields.io/badge/OPEN__SOURCE-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open Source"/>
+  </a>
+  <a href="https://github.com/onelpawarai-X/ZYRAXON-AI/tree/main/MCP%20Hub">
+    <img src="https://img.shields.io/badge/MCP__READY-0B1220?style=for-the-badge&logo=protocol&logoColor=A78BFA" alt="MCP Ready"/>
+  </a>
+  <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
+    <img src="https://img.shields.io/badge/AGENT__ENGINEERING-0B1220?style=for-the-badge&logo=cpu&logoColor=22D3EE" alt="Agent Engineering"/>
+  </a>
 
   <br/><br/>
 
-  <!-- Real GitHub Metrics Badges (Fetched from onelpawarai-X/ZYRAXON-AI) -->
+  <!-- Real GitHub Metrics Badges (Fetched directly from onelpawarai-X/ZYRAXON-AI) -->
   <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
     <img src="https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=38BDF8&label=Stars"/>
   </a>
@@ -74,7 +82,7 @@ An intelligent agent should be able to understand a goal, reason through steps, 
 
   <br/><br/>
 
-  <!-- Live Streak Stats -->
+  <!-- Live Activity Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onelpawarai-X&theme=dark&hide_border=true&background=050816&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="Zyraxon Real Activity Streak" width="48%"/>
 
 </div>
@@ -93,5 +101,4 @@ An intelligent agent should be able to understand a goal, reason through steps, 
       ===============================================
        AUTONOMOUS AGENT FRAMEWORK · STATE-OF-THE-ART
 
-
-// Copyright (c) 2026 onelpawarai. All rights reserved .inc
+ZYRAXON AI INC. © 2026 · All Rights Reserved
