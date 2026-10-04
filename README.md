@@ -1,40 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1220,35:00D4FF,70:7C3AED,100:FF6B35&text=ZYRAXON%20AI&fontSize=70&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Open%20Source%20AI%20Agent%20Ecosystem&descAlignY=60&descSize=22"/>
+# ZYRAXON AI
 
-# ⚡ ZYRAXON AI
+### Open Source AI Agent Ecosystem
 
-### *The Future of Intelligence — Open Source, Open Mind.*
+**Build. Think. Create.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2200&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Build.+Think.+Create.;Desktop+AI+Agent.;Mobile+Voice+Assistant.;AI+Powered+Code+Editor.;Open+Source+Future."/>
+<p>
+  <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
+    <img src="https://img.shields.io/badge/ZYRAXON_AI-Core-00D4FF?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/onelpawarai-X/Myra-Agent">
+    <img src="https://img.shields.io/badge/Myra-Agent-7C3AED?style=flat-square&logo=android&logoColor=white" />
+  </a>
+  <a href="https://github.com/onelpawarai-X/Zyraxon-Code">
+    <img src="https://img.shields.io/badge/Zyraxon_Code-6366F1?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/onelpawarai-X">
+    <img src="https://img.shields.io/badge/GitHub-onelpawarai--X-111827?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://groups.google.com/g/onelpawarai-x">
+    <img src="https://img.shields.io/badge/Community-Google_Group-111827?style=flat-square&logo=google&logoColor=white" />
+  </a>
+  <a href="https://zyraxon-pro.ai.studio">
+    <img src="https://img.shields.io/badge/Website-ZYRAXON-111827?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
-[![Core](https://img.shields.io/badge/ZYRAXON_AI-Core-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onelpawarai-X/ZYRAXON-AI)
-[![Myra](https://img.shields.io/badge/Myra_Agent-Mobile-FF6B35?style=for-the-badge&logo=android&logoColor=white)](https://github.com/onelpawarai-X/Myra-Agent)
-[![Code](https://img.shields.io/badge/Zyraxon_Code-Editor-9B59B6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/onelpawarai-X/Zyraxon-Code)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=onelpawarai-X&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS)
-
-</div>
-
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-onelpawarai--X-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onelpawarai-X)
-
-[![Google Group](https://img.shields.io/badge/Google_Group-Join-4285F4?style=for-the-badge&logo=googlegroups&logoColor=white)](https://groups.google.com/g/onelpawarai-x)
-
-[![Website](https://img.shields.io/badge/Website-ZYRAXON-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zyraxon-pro.ai.studio)
+> **The Future of Intelligence — Open Source, Open Mind.**
 
 </div>
 
 ---
 
+## About
+
+I build **AI agents, developer tools, and open-source AI infrastructure** under the ZYRAXON ecosystem.
+
+The goal is simple:
+
+> **Build AI systems that can reason, use tools, work across environments, and turn complex tasks into completed work.**
+
+ZYRAXON is not designed as a single chatbot.
+
+It is an evolving ecosystem around **agents, tools, automation, coding, orchestration, and intelligent software execution.**
+
+---
+
+# ZYRAXON Ecosystem
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:7C3AED&height=6"/>
+| Project | Purpose | Status |
+|:---:|:---|:---:|
+| **[ZYRAXON AI](https://github.com/onelpawarai-X/ZYRAXON-AI)** | Core AI Agent Platform | Active |
+| **[Myra Agent](https://github.com/onelpawarai-X/Myra-Agent)** | Mobile / Voice Agent | In Development |
+| **[Zyraxon Code](https://github.com/onelpawarai-X/Zyraxon-Code)** | AI-Powered Code Environment | Active |
+| **[ZSL](https://github.com/onelpawarai-X/ZSL)** | ZYRAXON Software / Licensing Infrastructure | Experimental |
 
 </div>
+
+---
+
+# ⚡ ZYRAXON AI
+
+### The Core
+
+[ZYRAXON AI](https://github.com/onelpawarai-X/ZYRAXON-AI) is the central project of the ecosystem.
+
+It is built around the idea of an **AI agent that does more than generate text**.
+
+The system is designed to combine:
+
+- 🧠 Reasoning
+- 🤖 Autonomous task execution
+- 🛠️ Tool usage
+- 💻 Software development
+- 🌐 Web interaction
+- 🔌 MCP integrations
+- 📁 File and workspace operations
+- 🧩 Multi-agent workflows
+- ⚙️ Automation
+- 🔍 Verification and iteration
+
+The long-term direction is to create an agent architecture capable of handling increasingly complex real-world workflows.
+
+---
+
+## Architecture Direction
+
+```text
+                         ┌─────────────────────┐
+                         │      ZYRAXON AI     │
+                         │    Agent Runtime    │
+                         └──────────┬──────────┘
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+              ▼                     ▼                     ▼
+        ┌───────────┐         ┌───────────┐        ┌───────────┐
+        │ Reasoning │         │   Tools   │        │  Memory   │
+        └─────┬─────┘         └─────┬─────┘        └─────┬─────┘
+              │                     │                     │
+              └─────────────────────┼─────────────────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   Agent Execution   │
+                         └──────────┬──────────┘
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+              ▼                     ▼                     ▼
+        ┌───────────┐         ┌───────────┐        ┌───────────┐
+        │   Code    │         │   Web     │        │   Apps    │
+        │   Tasks   │         │   Tasks   │        │   Tasks   │
+        └───────────┘         └───────────┘        └───────────┘
