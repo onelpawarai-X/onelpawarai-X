@@ -24,7 +24,7 @@
 
   <br/><br/>
 
-  <!-- Real GitHub Metrics Badges -->
+  <!-- Real GitHub Metrics Badges (Fetched from onelpawarai-X/ZYRAXON-AI) -->
   <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
     <img src="https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=38BDF8&label=Stars"/>
   </a>
@@ -64,23 +64,6 @@ An intelligent agent should be able to understand a goal, reason through steps, 
 
 ---
 
-## 🛠️ TECH STACK & CORE ECOSYSTEM
-
-<div align="center">
-
-| Ecosystem Area | Enterprise Technologies & Specifications |
-| :--- | :--- |
-| **Agent Framework** | Python 3.11+, LangGraph, AsyncIO, Multi-Agent Swarm |
-| **LLM & Reasoning** | Claude 3.5 Sonnet, GPT-4o, Custom Scaffolding Routing |
-| **Protocols & Tools** | Model Context Protocol (MCP), 800+ Native Custom Tools |
-| **Evaluation Sandbox** | SWE-bench Verified (500 Tasks), Docker Containers, Pytest |
-
-</div>
-
-<br/>
-
----
-
 ## 📊 GITHUB STATS & ENGINEERING METRICS
 
 <div align="center">
@@ -89,50 +72,10 @@ An intelligent agent should be able to understand a goal, reason through steps, 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=onelpawarai-X&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8" alt="Zyraxon Real GitHub Stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onelpawarai-X&layout=compact&theme=dark&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=94A3B8" alt="Zyraxon Top Languages"/>
 
-</div>
+  <br/><br/>
 
-<br/>
-
----
-
-## 🌐 GLOBAL COMMUNITY & DEVELOPER ECOSYSTEM
-
-<div align="center">
-
-> *Building the next generation of autonomous software engineering systems. Connect with our global engineering network.*
-
-<br/>
-
-<!-- Community & Repository Badges -->
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
-  <img src="https://img.shields.io/badge/GitHub-Core__Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/discussions">
-  <img src="https://img.shields.io/badge/Community-Discussions-0052CC?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/blob/main/CONTRIBUTING.md">
-  <img src="https://img.shields.io/badge/Contribute-Developer__Guide-238636?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<!-- Corporate Social Channels -->
-<a href="https://x.com">
-  <img src="https://img.shields.io/badge/X_%2F_Twitter-Follow_%40ZyraxonAI-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://discord.gg">
-  <img src="https://img.shields.io/badge/Discord-Join__Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-Official__Page-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<!-- Live Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onelpawarai-X&theme=dark&hide_border=true&background=050816&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="Zyraxon Real Engineering Activity" width="48%"/>
-</p>
+  <!-- Live Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onelpawarai-X&theme=dark&hide_border=true&background=050816&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="Zyraxon Real Activity Streak" width="48%"/>
 
 </div>
 
