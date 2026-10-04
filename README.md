@@ -1,12 +1,12 @@
 <!-- ========================================================= -->
-<!--                ZYRAXON AI — GITHUB PROFILE                -->
+<!--                ZYRAXON AI INC. — GITHUB PROFILE           -->
 <!-- ========================================================= -->
 
 <div align="center">
 
   <!-- Premium Header Banner -->
   <a href="https://github.com/onelpawarai-X">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZYRAXON%20AI&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:050816,45:071B3A,72:123C69,100:4C1D95" width="100%" alt="Zyraxon AI Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZYRAXON%20AI&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:050816,45:071B3A,72:123C69,100:4C1D95" width="100%" alt="Zyraxon AI Banner"/>
   </a>
 
   <br/>
@@ -59,3 +59,92 @@
 **AI should not stop at generating an answer.**
 
 An intelligent agent should be able to understand a goal, reason through steps, select the right tools, execute code, observe outcomes, recover from failures, and verify the final result.
+
+<br/>
+
+---
+
+## 🛠️ TECH STACK & CORE ECOSYSTEM
+
+<div align="center">
+
+| Ecosystem Area | Enterprise Technologies & Specifications |
+| :--- | :--- |
+| **Agent Framework** | Python 3.11+, LangGraph, AsyncIO, Multi-Agent Swarm |
+| **LLM & Reasoning** | Claude 3.5 Sonnet, GPT-4o, Custom Scaffolding Routing |
+| **Protocols & Tools** | Model Context Protocol (MCP), 800+ Native Custom Tools |
+| **Evaluation Sandbox** | SWE-bench Verified (500 Tasks), Docker Containers, Pytest |
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GITHUB STATS & ENGINEERING METRICS
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=onelpawarai-X&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8" alt="Zyraxon Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onelpawarai-X&layout=compact&theme=dark&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=94A3B8" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🌐 GLOBAL COMMUNITY & DEVELOPER ECOSYSTEM
+
+<div align="center">
+
+> *Building the next generation of autonomous software engineering systems. Connect with our global engineering network.*
+
+<br/>
+
+<!-- Repository & Community Badges -->
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
+  <img src="https://img.shields.io/badge/GitHub-Core__Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/discussions">
+  <img src="https://img.shields.io/badge/Community-Discussions-0052CC?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/blob/main/CONTRIBUTING.md">
+  <img src="https://img.shields.io/badge/Contribute-Developer__Guide-238636?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Corporate Social Channels -->
+<a href="https://x.com">
+  <img src="https://img.shields.io/badge/X_%2F_Twitter-Follow_%40ZyraxonAI-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://discord.gg">
+  <img src="https://img.shields.io/badge/Discord-Join__Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-Official__Page-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Engineering Streak Activity -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onelpawarai-X&theme=dark&hide_border=true&background=050816&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="Zyraxon Engineering Activity" width="48%"/>
+</p>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+```text
+       ___   _  _   ___     _    _  _   ___   _  _ 
+      |_  /  | || | | _ \   /_\  | \/ | / _ \ | \| |
+       / /    \_  | |   /  / _ \ | |\/| | (_) || .` |
+      /___|     |_| |_|_\ /_/ \_\|_|  |_|\___/ |_|\_|
+      ===============================================
+       AUTONOMOUS AGENT FRAMEWORK · STATE-OF-THE-ART
