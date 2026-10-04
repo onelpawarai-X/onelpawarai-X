@@ -1,123 +1,119 @@
+<!-- ========================================================= -->
+<!--                    ZYRAXON AI — PROFILE                   -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# ZYRAXON AI
+<a href="https://github.com/onelpawarai-X">
 
-### Open Source AI Agent Ecosystem
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZYRAXON%20AI&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:050816,45:071B3A,72:123C69,100:4C1D95"
+width="100%"
+/>
 
-**Build. Think. Create.**
-
-<p>
-  <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
-    <img src="https://img.shields.io/badge/ZYRAXON_AI-Core-00D4FF?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/onelpawarai-X/Myra-Agent">
-    <img src="https://img.shields.io/badge/Myra-Agent-7C3AED?style=flat-square&logo=android&logoColor=white" />
-  </a>
-  <a href="https://github.com/onelpawarai-X/Zyraxon-Code">
-    <img src="https://img.shields.io/badge/Zyraxon_Code-6366F1?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/onelpawarai-X">
-    <img src="https://img.shields.io/badge/GitHub-onelpawarai--X-111827?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://groups.google.com/g/onelpawarai-x">
-    <img src="https://img.shields.io/badge/Community-Google_Group-111827?style=flat-square&logo=google&logoColor=white" />
-  </a>
-  <a href="https://zyraxon-pro.ai.studio">
-    <img src="https://img.shields.io/badge/Website-ZYRAXON-111827?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+</a>
 
 <br/>
 
-> **The Future of Intelligence — Open Source, Open Mind.**
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Autonomous+AI+Agent+Systems;Reasoning+%C2%B7+Tools+%C2%B7+Execution+%C2%B7+Verification;Open+Source+AI+Engineering;Build.+Think.+Execute."
+/>
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/AI_AGENT-0B1220?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/OPEN_SOURCE-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MCP_READY-0B1220?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/AGENT_ENGINEERING-0B1220?style=for-the-badge&logoColor=22D3EE"/>
+
+<br/>
+<br/>
+
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
+<img src="https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=38BDF8&label=Stars"/>
+</a>
+
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
+<img src="https://img.shields.io/github/forks/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=8B5CF6&label=Forks"/>
+</a>
+
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
+<img src="https://img.shields.io/github/license/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=A78BFA"/>
+</a>
+
+<a href="https://github.com/onelpawarai-X">
+<img src="https://komarev.com/ghpvc/?username=onelpawarai-X&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
+</a>
+
+<br/>
+<br/>
+
+### **The Future of Intelligence — Open Source, Open Mind.**
 
 </div>
 
 ---
-
-## About
-
-I build **AI agents, developer tools, and open-source AI infrastructure** under the ZYRAXON ecosystem.
-
-The goal is simple:
-
-> **Build AI systems that can reason, use tools, work across environments, and turn complex tasks into completed work.**
-
-ZYRAXON is not designed as a single chatbot.
-
-It is an evolving ecosystem around **agents, tools, automation, coding, orchestration, and intelligent software execution.**
-
----
-
-# ZYRAXON Ecosystem
 
 <div align="center">
 
-| Project | Purpose | Status |
-|:---:|:---|:---:|
-| **[ZYRAXON AI](https://github.com/onelpawarai-X/ZYRAXON-AI)** | Core AI Agent Platform | Active |
-| **[Myra Agent](https://github.com/onelpawarai-X/Myra-Agent)** | Mobile / Voice Agent | In Development |
-| **[Zyraxon Code](https://github.com/onelpawarai-X/Zyraxon-Code)** | AI-Powered Code Environment | Active |
-| **[ZSL](https://github.com/onelpawarai-X/ZSL)** | ZYRAXON Software / Licensing Infrastructure | Experimental |
+> **ZYRAXON AI is an open-source AI agent platform focused on turning goals into real, verifiable work.**
 
 </div>
 
----
+<br/>
 
-# ⚡ ZYRAXON AI
+# ◈ ZYRAXON
 
-### The Core
+ZYRAXON AI is being built around a simple idea:
 
-[ZYRAXON AI](https://github.com/onelpawarai-X/ZYRAXON-AI) is the central project of the ecosystem.
+**AI should not stop at generating an answer.**
 
-It is built around the idea of an **AI agent that does more than generate text**.
-
-The system is designed to combine:
-
-- 🧠 Reasoning
-- 🤖 Autonomous task execution
-- 🛠️ Tool usage
-- 💻 Software development
-- 🌐 Web interaction
-- 🔌 MCP integrations
-- 📁 File and workspace operations
-- 🧩 Multi-agent workflows
-- ⚙️ Automation
-- 🔍 Verification and iteration
-
-The long-term direction is to create an agent architecture capable of handling increasingly complex real-world workflows.
-
----
-
-## Architecture Direction
+An intelligent agent should be able to understand a goal, reason about it, use the right tools, execute actions, observe what happened, recover from failures, and verify the final result.
 
 ```text
-                         ┌─────────────────────┐
-                         │      ZYRAXON AI     │
-                         │    Agent Runtime    │
-                         └──────────┬──────────┘
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              │                     │                     │
-              ▼                     ▼                     ▼
-        ┌───────────┐         ┌───────────┐        ┌───────────┐
-        │ Reasoning │         │   Tools   │        │  Memory   │
-        └─────┬─────┘         └─────┬─────┘        └─────┬─────┘
-              │                     │                     │
-              └─────────────────────┼─────────────────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │   Agent Execution   │
-                         └──────────┬──────────┘
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              │                     │                     │
-              ▼                     ▼                     ▼
-        ┌───────────┐         ┌───────────┐        ┌───────────┐
-        │   Code    │         │   Web     │        │   Apps    │
-        │   Tasks   │         │   Tasks   │        │   Tasks   │
-        └───────────┘         └───────────┘        └───────────┘
+                    ┌─────────────────────────┐
+                    │        USER GOAL        │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │       UNDERSTAND        │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │          PLAN           │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+              ┌─────────────────────────────────────┐
+              │            ZYRAXON AGENT            │
+              │                                     │
+              │   Reasoning · Tools · Memory        │
+              │   Planning  · Execution · Context   │
+              └──────────────────┬──────────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │        EXECUTE          │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │        OBSERVE          │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │        VERIFY           │
+                    └────────────┬────────────┘
+                                 │
+                       ┌─────────┴─────────┐
+                       │                   │
+                     PASS                FAIL
+                       │                   │
+                       ▼                   ▼
+                    RESULT             ITERATE
+                                           │
+                                           └──────► EXECUTE
