@@ -1,55 +1,41 @@
-<!-- ========================================================= -->
-<!--                    ZYRAXON AI — PROFILE                   -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<a href="https://github.com/onelpawarai-X">
+<a href="https://github.com/onelpawarai-X/ZSL">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZYRAXON%20AI&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:050816,45:071B3A,72:123C69,100:4C1D95"
-width="100%"
+src="https://capsule-render.vercel.app/api?type=venom&height=260&text=ZSL&fontSize=92&fontColor=FFFFFF&animation=twinkling&color=0:050816,28:071B3A,55:0E7490,78:4C1D95,100:120B2E"
 />
 
 </a>
 
-<br/>
-
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Autonomous+AI+Agent+Systems;Reasoning+%C2%B7+Tools+%C2%B7+Execution+%C2%B7+Verification;Open+Source+AI+Engineering;Build.+Think.+Execute."
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1100&color=67E8F9&center=true&vCenter=true&width=850&lines=ZYRAXON+SOVEREIGN+LICENSE;Open+Source+%C2%B7+Protected+Identity+%C2%B7+Clear+Rights;The+Licensing+Foundation+of+ZYRAXON"
 />
 
 <br/>
-<br/>
 
-<img src="https://img.shields.io/badge/AI_AGENT-0B1220?style=for-the-badge&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/OPEN_SOURCE-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MCP_READY-0B1220?style=for-the-badge&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/AGENT_ENGINEERING-0B1220?style=for-the-badge&logoColor=22D3EE"/>
+### **ZYRAXON SOVEREIGN LICENSE**
+
+**The official licensing foundation for the ZYRAXON ecosystem.**
 
 <br/>
-<br/>
 
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
-<img src="https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=38BDF8&label=Stars"/>
+<a href="https://github.com/onelpawarai-X/ZSL">
+<img src="https://img.shields.io/badge/ZSL--X-v1.0.0-0B1220?style=for-the-badge&labelColor=0B1220&color=22D3EE"/>
+</a>
+
+<a href="https://github.com/onelpawarai-X/ZSL">
+<img src="https://img.shields.io/badge/MEKRA--X-v1.0.0-0B1220?style=for-the-badge&labelColor=0B1220&color=8B5CF6"/>
 </a>
 
 <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
-<img src="https://img.shields.io/github/forks/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=8B5CF6&label=Forks"/>
-</a>
-
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
-<img src="https://img.shields.io/github/license/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=A78BFA"/>
-</a>
-
-<a href="https://github.com/onelpawarai-X">
-<img src="https://komarev.com/ghpvc/?username=onelpawarai-X&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/ZYRAXON-AI-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF&color=4C1D95"/>
 </a>
 
 <br/>
 <br/>
 
-### **The Future of Intelligence — Open Source, Open Mind.**
+> **Open source should empower builders — while protecting the systems that make the ecosystem sustainable.**
 
 </div>
 
@@ -57,63 +43,74 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=2
 
 <div align="center">
 
-> **ZYRAXON AI is an open-source AI agent platform focused on turning goals into real, verifiable work.**
+## ◈ THE ZYRAXON LICENSE FAMILY
 
 </div>
 
+The **ZSL repository** is the official, canonical home of the licensing family created for the ZYRAXON ecosystem.
+
+It currently contains two license editions:
+
+| License | Edition | Role |
+|:---|:---:|:---|
+| **ZSL-X** | `v1.0.0` | Current sovereign license for ZYRAXON AI |
+| **MEKRA-X** | `v1.0.0` | Successor edition with stricter protections |
+
+Both licenses are maintained from this repository.
+
+---
+
+# ⟡ What is ZSL?
+
+**ZSL — Zyraxon Sovereign License** is a source-available license designed around a simple principle:
+
+> **Keep the source open. Keep the ecosystem usable. Protect the original product from being repackaged as a competing product.**
+
+ZSL is intentionally different from conventional permissive open-source licenses.
+
+It allows developers to:
+
+- Read the source
+- Study the implementation
+- Modify the software
+- Extend the software
+- Build projects around it
+- Use it personally
+- Use it commercially
+- Use it at scale
+- Contribute improvements
+
+At the same time, the license preserves specific boundaries around:
+
+- Reselling the software itself
+- Rebranding a modified copy as the original work
+- Removing or bypassing protected system mechanisms
+- Removing required origin and attribution information
+
+---
+
+<div align="center">
+
+# ⚡ OPEN BY DESIGN
+
+### **Build around it. Extend it. Improve it.**
+
 <br/>
 
-# ◈ ZYRAXON
-
-ZYRAXON AI is being built around a simple idea:
-
-**AI should not stop at generating an answer.**
-
-An intelligent agent should be able to understand a goal, reason about it, use the right tools, execute actions, observe what happened, recover from failures, and verify the final result.
-
 ```text
-                    ┌─────────────────────────┐
-                    │        USER GOAL        │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       UNDERSTAND        │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │          PLAN           │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-              ┌─────────────────────────────────────┐
-              │            ZYRAXON AGENT            │
-              │                                     │
-              │   Reasoning · Tools · Memory        │
-              │   Planning  · Execution · Context   │
-              └──────────────────┬──────────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │        EXECUTE          │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │        OBSERVE          │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │        VERIFY           │
-                    └────────────┬────────────┘
-                                 │
-                       ┌─────────┴─────────┐
-                       │                   │
-                     PASS                FAIL
-                       │                   │
-                       ▼                   ▼
-                    RESULT             ITERATE
-                                           │
-                                           └──────► EXECUTE
+        SOURCE
+          │
+          ▼
+     ┌───────────┐
+     │    ZSL    │
+     └─────┬─────┘
+           │
+     ┌─────┼─────┐
+     │     │     │
+     ▼     ▼     ▼
+   READ  MODIFY  BUILD
+     │     │     │
+     └─────┼─────┘
+           │
+           ▼
+       YOUR WORK
