@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <!-- Premium Header Banner -->
+  <!-- Header Banner -->
   <a href="https://github.com/onelpawarai-X">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZYRAXON%20AI&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:050816,45:071B3A,72:123C69,100:4C1D95" width="100%" alt="Zyraxon AI Banner"/>
   </a>
@@ -16,7 +16,7 @@
 
   <br/><br/>
 
-  <!-- Standardized Category Badges -->
+  <!-- Category Badges -->
   <img src="https://img.shields.io/badge/AI__AGENT-0B1220?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
   <img src="https://img.shields.io/badge/OPEN__SOURCE-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/MCP__READY-0B1220?style=for-the-badge&logo=protocol&logoColor=A78BFA"/>
@@ -24,7 +24,7 @@
 
   <br/><br/>
 
-  <!-- GitHub Metrics Badges -->
+  <!-- Real GitHub Metrics Badges -->
   <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
     <img src="https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=38BDF8&label=Stars"/>
   </a>
@@ -85,8 +85,9 @@ An intelligent agent should be able to understand a goal, reason through steps, 
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=onelpawarai-X&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8" alt="Zyraxon Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onelpawarai-X&layout=compact&theme=dark&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=94A3B8" alt="Top Languages"/>
+  <!-- Live Real Stats from GitHub API -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=onelpawarai-X&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8" alt="Zyraxon Real GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onelpawarai-X&layout=compact&theme=dark&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=94A3B8" alt="Zyraxon Top Languages"/>
 
 </div>
 
@@ -102,7 +103,7 @@ An intelligent agent should be able to understand a goal, reason through steps, 
 
 <br/>
 
-<!-- Repository & Community Badges -->
+<!-- Community & Repository Badges -->
 <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
   <img src="https://img.shields.io/badge/GitHub-Core__Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -128,9 +129,9 @@ An intelligent agent should be able to understand a goal, reason through steps, 
 
 <br/><br/>
 
-<!-- Engineering Streak Activity -->
+<!-- Live Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onelpawarai-X&theme=dark&hide_border=true&background=050816&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="Zyraxon Engineering Activity" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onelpawarai-X&theme=dark&hide_border=true&background=050816&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="Zyraxon Real Engineering Activity" width="48%"/>
 </p>
 
 </div>
