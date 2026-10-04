@@ -94,4 +94,4 @@ An intelligent agent should be able to understand a goal, reason through steps, 
        AUTONOMOUS AGENT FRAMEWORK · STATE-OF-THE-ART
 
 
-.inc
+// Copyright (c) 2026 onelpawarai. All rights reserved .inc
