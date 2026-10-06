@@ -145,12 +145,8 @@ An intelligent agent should be able to understand a goal, reason through steps, 
 
 <div align="center">
 
-```text
-       ___   _  _   ___     _    _  _   ___   _  _ 
-      |_  /  | || | | _ \   /_\  | \/ | / _ \ | \| |
-       / /    \_  | |   /  / _ \ | |\/| | (_) || .` |
-      /___|     |_| |_|_\ /_/ \_\|_|  |_|\___/ |_|\_|
-      ===============================================
-       AUTONOMOUS AGENT FRAMEWORK · STATE-OF-THE-ART
+  
+===============================================
+AUTONOMOUS AGENT FRAMEWORK · STATE-OF-THE-ART
 
 ZYRAXON AI INC. © 2026 · All Rights Reserved
