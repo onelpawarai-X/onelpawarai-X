@@ -62,6 +62,58 @@
 
 <br/>
 
+---
+
+## 🏆 SWE-bench Verified — 85.0%
+
+<div align="center">
+
+<a href="https://zyraxonai.lovable.app/swebench-verified">
+  <img src="https://img.shields.io/badge/SWE--bench%20Verified-425%2F500%20%C2%B7%2085.0%25-38BDF8?style=for-the-badge&labelColor=0B1220" alt="SWE-bench Verified 85.0%"/>
+</a>
+<a href="https://github.com/onelpawarai-X/SWE-bench-ZYRAXON-AI">
+  <img src="https://img.shields.io/badge/Artifacts-Open%20%26%20Reproducible-8B5CF6?style=for-the-badge&labelColor=0B1220" alt="Open artifacts"/>
+</a>
+<a href="https://zyraxonai.lovable.app/swebench/zyraxon-swebench-verified.pdf">
+  <img src="https://img.shields.io/badge/Technical%20Report-PDF-A78BFA?style=for-the-badge&labelColor=0B1220" alt="Technical report"/>
+</a>
+
+<br/><br/>
+
+**ZYRAXON-AI v19.0.5 resolves 425 of 500 SWE-bench Verified instances (85.0%)** under the
+official SWE-bench Docker grader. The agent runs fully locally — no web browsing, and no
+access to the benchmark's test metadata (`FAIL_TO_PASS`, `PASS_TO_PASS`, `hints`).
+
+Every verdict is independently reproducible: re-grading the published raw logs reproduces
+all 500 verdicts with **zero mismatches**.
+
+<a href="https://zyraxonai.lovable.app/swebench-verified">
+  <img src="https://img.shields.io/badge/Read%20the%20full%20report-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF" alt="Read the report"/>
+</a>
+<a href="https://github.com/onelpawarai-X/SWE-bench-ZYRAXON-AI">
+  <img src="https://img.shields.io/badge/Predictions%20%C2%B7%20Logs%20%C2%B7%20Traces-8B5CF6?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Artifacts"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## 🤝 Research Collaborators &amp; Contributors
+
+We work with researchers, labs and universities. People contribute to ZYRAXON AI as
+co-authors, reviewers and collaborators — including academic co-authorship on our
+SWE-bench Verified technical report. If you work on coding agents, software engineering
+or LLM evaluation and would like to collaborate, we would be glad to hear from you.
+
+**First author:** Deluar Husen Sayidi (দেলোয়ার হুসেন সাইদি) · ZYRAXON AI, Inc. ·
+[github.com/onelpawarai-X](https://github.com/onelpawarai-X)
+
+<br/>
+
+---
+
 ## ◈ ABOUT ZYRAXON AI
 
 **AI should not stop at generating an answer.**
