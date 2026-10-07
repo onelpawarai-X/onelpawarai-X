@@ -100,20 +100,6 @@ all 500 verdicts with **zero mismatches**.
 
 ---
 
-## 🤝 Research Collaborators &amp; Contributors
-
-We work with researchers, labs and universities. People contribute to ZYRAXON AI as
-co-authors, reviewers and collaborators — including academic co-authorship on our
-SWE-bench Verified technical report. If you work on coding agents, software engineering
-or LLM evaluation and would like to collaborate, we would be glad to hear from you.
-
-**First author:** Deluar Husen Sayidi (দেলোয়ার হুসেন সাইদি) · ZYRAXON AI, Inc. ·
-[github.com/onelpawarai-X](https://github.com/onelpawarai-X)
-
-<br/>
-
----
-
 ## ◈ ABOUT ZYRAXON AI
 
 **AI should not stop at generating an answer.**
