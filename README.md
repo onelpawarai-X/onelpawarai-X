@@ -100,6 +100,99 @@ all 500 verdicts with **zero mismatches**.
 
 ---
 
+## 🏆 SWE-bench Lite — 96.7%
+
+<div align="center">
+
+<a href="https://zyraxonai.lovable.app/swebench-lite">
+  <img src="https://img.shields.io/badge/SWE--bench%20Lite-290%2F300%20%C2%B7%2096.7%25-22D3EE?style=for-the-badge&labelColor=0B1220" alt="SWE-bench Lite 96.7%"/>
+</a>
+<a href="https://github.com/onelpawarai-X/SWE-bench-Lite-ZYRAXON-AI">
+  <img src="https://img.shields.io/badge/Artifacts-Open%20%26%20Reproducible-8B5CF6?style=for-the-badge&labelColor=0B1220" alt="Open artifacts"/>
+</a>
+<a href="https://zyraxonai.lovable.app/swebench/zyraxon-swebench-lite.pdf">
+  <img src="https://img.shields.io/badge/Technical%20Report-PDF-A78BFA?style=for-the-badge&labelColor=0B1220" alt="Technical report"/>
+</a>
+
+<br/><br/>
+
+**ZYRAXON-AI resolves 290 of 300 SWE-bench Lite instances (96.7%)** under the official
+SWE-bench Docker grader. Honest methodology: this is a **Best@2** run
+(`system/attempts: "2+"`) — a distinct selection module picks the submitted patch
+**without** using benchmark test results.
+
+<a href="https://github.com/onelpawarai-X/SWE-bench-Lite-ZYRAXON-AI">
+  <img src="https://img.shields.io/badge/Predictions%20%C2%B7%20Logs%20%C2%B7%20Traces-22D3EE?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Lite artifacts"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## 🔗 Connected benchmark systems
+
+Both ZYRAXON-AI benchmark runs are wired end-to-end — one product, two evidence trails:
+
+| Board | Result | Evidence repo | Report |
+|---|---|---|---|
+| **SWE-bench Verified** | 425 / 500 · **85.0%** | [SWE-bench-ZYRAXON-AI](https://github.com/onelpawarai-X/SWE-bench-ZYRAXON-AI) | [PDF](https://zyraxonai.lovable.app/swebench/zyraxon-swebench-verified.pdf) |
+| **SWE-bench Lite** | 290 / 300 · **96.7%** | [SWE-bench-Lite-ZYRAXON-AI](https://github.com/onelpawarai-X/SWE-bench-Lite-ZYRAXON-AI) | [PDF](https://zyraxonai.lovable.app/swebench/zyraxon-swebench-lite.pdf) |
+
+Both are linked from the main project [`ZYRAXON-AI`](https://github.com/onelpawarai-X/ZYRAXON-AI),
+so anyone can go from the product to the exact, reproducible evidence in two clicks.
+
+<br/>
+
+---
+
+## 🤝 Build With ZYRAXON AI — contributors stay
+
+<div align="center">
+
+**ZYRAXON AI is not a solo project. It is a movement — and the door is open.**
+
+If you work with me, you are part of the team **for good**. This is the standing invitation,
+every single day:
+
+- 🧩 **Contribute** — open pull requests, fix bugs, add features, write tests and docs.
+- 🛠️ **Build with me** — pick up an open issue in [ZYRAXON-AI](https://github.com/onelpawarai-X/ZYRAXON-AI) and ship it.
+- 🚀 **Improve the projects** — make the agent smarter, faster, and more reliable.
+- 📣 **Spread the word** — share ZYRAXON AI with your network, so more people know.
+- 🎥 **Make videos** — record demos and tutorials, upload them, and tag the project.
+- ♻️ **Keep going** — do it continuously, a little every day. Momentum compounds.
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/blob/main/CONTRIBUTING.md">
+  <img src="https://img.shields.io/badge/Contribute-Start%20Here-38BDF8?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Contribute"/>
+</a>
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/issues">
+  <img src="https://img.shields.io/badge/Open%20Issues-Pick%20One-8B5CF6?style=for-the-badge&logo=githubissues&logoColor=FFFFFF" alt="Open issues"/>
+</a>
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/discussions">
+  <img src="https://img.shields.io/badge/Discussions-Join%20In-A78BFA?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Discussions"/>
+</a>
+<a href="https://youtube.com/@zyraxon-aix">
+  <img src="https://img.shields.io/badge/YouTube-Upload%20%26%20Share-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="YouTube"/>
+</a>
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
+  <img src="https://img.shields.io/badge/Star%20the%20Project-%E2%AD%90-22D3EE?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Star"/>
+</a>
+
+<br/><br/>
+
+<i>Work with me · Contribute · Improve · Promote · Upload videos — every day.</i>
+
+</div>
+
+<br/>
+
+---
+
 ## ◈ ABOUT ZYRAXON AI
 
 **AI should not stop at generating an answer.**
