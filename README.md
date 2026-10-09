@@ -176,7 +176,7 @@ every single day:
 <a href="https://github.com/onelpawarai-X/ZYRAXON-AI/discussions">
   <img src="https://img.shields.io/badge/Discussions-Join%20In-A78BFA?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Discussions"/>
 </a>
-<a href="https://youtube.com/@zyraxon-aix">
+<a href="https://www.youtube.com/@ZYRAXONAI">
   <img src="https://img.shields.io/badge/YouTube-Upload%20%26%20Share-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="YouTube"/>
 </a>
 <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
