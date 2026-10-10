@@ -1,6 +1,6 @@
-<!-- ========================================================= -->
-<!--                ZYRAXON AI INC. — GITHUB PROFILE           -->
-<!-- ========================================================= -->
+﻿<!-- ============================================ -->
+<!--        ZYRAXON AI INC. — GITHUB PROFILE        -->
+<!-- ============================================ -->
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
   <br/><br/>
 
-  <!-- Real GitHub Metrics Badges (Fetched directly from onelpawarai-X/ZYRAXON-AI) -->
+  <!-- Real GitHub Metrics Badges -->
   <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
     <img src="https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=38BDF8&label=Stars"/>
   </a>
@@ -64,99 +64,16 @@
 
 ---
 
-## 🏆 SWE-bench Verified — 85.0%
-
-<div align="center">
-
-<a href="https://zyraxonai.lovable.app/swebench-verified">
-  <img src="https://img.shields.io/badge/SWE--bench%20Verified-425%2F500%20%C2%B7%2085.0%25-38BDF8?style=for-the-badge&labelColor=0B1220" alt="SWE-bench Verified 85.0%"/>
-</a>
-<a href="https://github.com/onelpawarai-X/SWE-bench-ZYRAXON-AI">
-  <img src="https://img.shields.io/badge/Artifacts-Open%20%26%20Reproducible-8B5CF6?style=for-the-badge&labelColor=0B1220" alt="Open artifacts"/>
-</a>
-<a href="https://zyraxonai.lovable.app/swebench/zyraxon-swebench-verified.pdf">
-  <img src="https://img.shields.io/badge/Technical%20Report-PDF-A78BFA?style=for-the-badge&labelColor=0B1220" alt="Technical report"/>
-</a>
-
-<br/><br/>
-
-**ZYRAXON-AI v19.0.5 resolves 425 of 500 SWE-bench Verified instances (85.0%)** under the
-official SWE-bench Docker grader. The agent runs fully locally — no web browsing, and no
-access to the benchmark's test metadata (`FAIL_TO_PASS`, `PASS_TO_PASS`, `hints`).
-
-Every verdict is independently reproducible: re-grading the published raw logs reproduces
-all 500 verdicts with **zero mismatches**.
-
-<a href="https://zyraxonai.lovable.app/swebench-verified">
-  <img src="https://img.shields.io/badge/Read%20the%20full%20report-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF" alt="Read the report"/>
-</a>
-<a href="https://github.com/onelpawarai-X/SWE-bench-ZYRAXON-AI">
-  <img src="https://img.shields.io/badge/Predictions%20%C2%B7%20Logs%20%C2%B7%20Traces-8B5CF6?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Artifacts"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-## 🏆 SWE-bench Lite — 96.7%
-
-<div align="center">
-
-<a href="https://zyraxonai.lovable.app/swebench-lite">
-  <img src="https://img.shields.io/badge/SWE--bench%20Lite-290%2F300%20%C2%B7%2096.7%25-22D3EE?style=for-the-badge&labelColor=0B1220" alt="SWE-bench Lite 96.7%"/>
-</a>
-<a href="https://github.com/onelpawarai-X/SWE-bench-Lite-ZYRAXON-AI">
-  <img src="https://img.shields.io/badge/Artifacts-Open%20%26%20Reproducible-8B5CF6?style=for-the-badge&labelColor=0B1220" alt="Open artifacts"/>
-</a>
-<a href="https://zyraxonai.lovable.app/swebench/zyraxon-swebench-lite.pdf">
-  <img src="https://img.shields.io/badge/Technical%20Report-PDF-A78BFA?style=for-the-badge&labelColor=0B1220" alt="Technical report"/>
-</a>
-
-<br/><br/>
-
-**ZYRAXON-AI resolves 290 of 300 SWE-bench Lite instances (96.7%)** under the official
-SWE-bench Docker grader. Honest methodology: this is a **Best@2** run
-(`system/attempts: "2+"`) — a distinct selection module picks the submitted patch
-**without** using benchmark test results.
-
-<a href="https://github.com/onelpawarai-X/SWE-bench-Lite-ZYRAXON-AI">
-  <img src="https://img.shields.io/badge/Predictions%20%C2%B7%20Logs%20%C2%B7%20Traces-22D3EE?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Lite artifacts"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-## 🔗 Connected benchmark systems
-
-Both ZYRAXON-AI benchmark runs are wired end-to-end — one product, two evidence trails:
-
-| Board | Result | Evidence repo | Report |
-|---|---|---|---|
-| **SWE-bench Verified** | 425 / 500 · **85.0%** | [SWE-bench-ZYRAXON-AI](https://github.com/onelpawarai-X/SWE-bench-ZYRAXON-AI) | [PDF](https://zyraxonai.lovable.app/swebench/zyraxon-swebench-verified.pdf) |
-| **SWE-bench Lite** | 290 / 300 · **96.7%** | [SWE-bench-Lite-ZYRAXON-AI](https://github.com/onelpawarai-X/SWE-bench-Lite-ZYRAXON-AI) | [PDF](https://zyraxonai.lovable.app/swebench/zyraxon-swebench-lite.pdf) |
-
-Both are linked from the main project [`ZYRAXON-AI`](https://github.com/onelpawarai-X/ZYRAXON-AI),
-so anyone can go from the product to the exact, reproducible evidence in two clicks.
-
-<br/>
-
----
-
-## 🤝 Build With ZYRAXON AI — contributors stay
+## 
+ 🤝 Build With ZYRAXON AI — contributors stay
 
 <div align="center">
 
 **ZYRAXON AI is not a solo project. It is a movement — and the door is open.**
 
-If you work with me, you are part of the team **for good**. This is the standing invitation,
-every single day:
+If you work with me, you are part of the team **for good**. This is the standing invitation, every single day:
 
-- 🧩 **Contribute** — open pull requests, fix bugs, add features, write tests and docs.
+- 💡 **Contribute** — open pull requests, fix bugs, add features, write tests and docs.
 - 🛠️ **Build with me** — pick up an open issue in [ZYRAXON-AI](https://github.com/onelpawarai-X/ZYRAXON-AI) and ship it.
 - 🚀 **Improve the projects** — make the agent smarter, faster, and more reliable.
 - 📣 **Spread the word** — share ZYRAXON AI with your network, so more people know.
@@ -185,6 +102,7 @@ every single day:
 
 <br/><br/>
 
+
 <i>Work with me · Contribute · Improve · Promote · Upload videos — every day.</i>
 
 </div>
@@ -195,7 +113,7 @@ every single day:
 
 ## ◈ ABOUT ZYRAXON AI
 
-**AI should not stop at generating an answer.**
+***AI should not stop at generating an answer.***
 
 An intelligent agent should be able to understand a goal, reason through steps, select the right tools, execute code, observe outcomes, recover from failures, and verify the final result.
 
@@ -207,14 +125,19 @@ An intelligent agent should be able to understand a goal, reason through steps, 
 
 <div align="center">
 
+
   <!-- Live Real Stats from GitHub API -->
+
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=onelpawarai-X&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8" alt="Zyraxon Real GitHub Stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onelpawarai-X&layout=compact&theme=dark&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=94A3B8" alt="Zyraxon Top Languages"/>
 
-  <br/><br/>
+  <br/>
+<br/>
 
   <!-- Live Activity Streak Stats -->
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onelpawarai-X&theme=dark&hide_border=true&background=050816&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="Zyraxon Real Activity Streak" width="48%"/>
+
 
 </div>
 
@@ -224,7 +147,8 @@ An intelligent agent should be able to understand a goal, reason through steps, 
 
 <div align="center">
 
-  
+
+
 ===============================================
 
 
