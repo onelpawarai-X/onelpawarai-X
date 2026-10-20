@@ -249,20 +249,7 @@ Ways to contribute:
 - **Integrations:** experiment with tools, models, and compatible workflows.
 - **Community:** share demos, tutorials, ideas, and independent reviews.
 
-<div align="center">
-
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/CONTRIBUTE-START%20HERE-38BDF8?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Contribute"/></a>
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/issues"><img src="https://img.shields.io/badge/ISSUES-FIND%20A%20TASK-8B5CF6?style=for-the-badge&logo=githubissues&logoColor=FFFFFF" alt="Issues"/></a>
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/discussions"><img src="https://img.shields.io/badge/DISCUSSIONS-JOIN%20IN-A78BFA?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Discussions"/></a>
-<a href="https://www.youtube.com/@ZYRAXONAI"><img src="https://img.shields.io/badge/YOUTUBE-WATCH%20DEMOS-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="YouTube"/></a>
-
-<br/><br/>
-
 **Explore. Build. Contribute. Improve.**
-
-</div>
-
-<br/><br/>
 
 ### ZYRAXON AI
 
