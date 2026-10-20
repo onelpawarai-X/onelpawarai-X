@@ -1,6 +1,3 @@
-import pypandoc
-
-readme = r'''<div align="center">
 
 <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ZYRAXON%20AI&fontSize=68&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:030712,35:071B3A,70:312E81,100:0891B2" width="100%" alt="ZYRAXON AI animated banner"/>
@@ -265,17 +262,6 @@ Ways to contribute:
 
 </div>
 
----
-
-## ◈ CONNECT
-
-<div align="center">
-
-<a href="https://github.com/onelpawarai-X"><img src="https://img.shields.io/badge/GitHub-Follow%20the%20Journey-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
-<a href="https://www.youtube.com/@ZYRAXONAI"><img src="https://img.shields.io/badge/YouTube-Explore%20Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="YouTube"/></a>
-<a href="https://zyraxonai.lovable.app/"><img src="https://img.shields.io/badge/Platform-Explore%20ZYRAXON-0891B2?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="Platform"/></a>
-<a href="https://zyraxonai.lovable.app/docs/provider-overview"><img src="https://img.shields.io/badge/Developers-Read%20the%20Docs-312E81?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF" alt="Documentation"/></a>
-
 <br/><br/>
 
 ### ZYRAXON AI
@@ -285,6 +271,3 @@ Ways to contribute:
 *Think beyond the prompt. Build beyond the answer.*
 
 <sub>ZYRAXON AI INC. © 2026 · See the repository for the applicable license and terms.</sub>
-
-</div>
-'''
