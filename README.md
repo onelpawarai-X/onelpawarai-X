@@ -1,24 +1,24 @@
 <div align="center">
 
 <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&text=ZYRAXON%20AI&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=An%20AI%20agent%20that%20does%20the%20work&descSize=22&descAlignY=58&animation=twinkling&color=0:030712,35:071B3A,70:312E81,100:0891B2" width="100%" alt="ZYRAXON AI banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=ZYRAXON%20AI&fontSize=78&fontColor=FFFFFF&fontAlignY=38&desc=An%20AI%20agent%20that%20does%20the%20work&descSize=24&descAlignY=60&animation=twinkling&color=0:030712,30:071B3A,65:312E81,100:0891B2" width="100%" alt="ZYRAXON AI"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=860&lines=You+say+the+goal.+The+agent+does+the+work.;888+tools+%C2%B7+11+agent+modes+%C2%B7+thousands+of+MCP+servers;Built+alone+by+a+student+from+Bangladesh;Open+source.+Bring+your+own+model." alt="ZYRAXON AI tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=You+say+the+goal.+The+agent+does+the+work.;8%2C202+MCP+servers+in+one+catalog.;888+tools+%C2%B7+11+agent+modes+%C2%B7+your+own+model.;Built+alone+by+a+student+from+Bangladesh.;Open+source.+Come+build+it+with+me." alt="ZYRAXON AI tagline"/>
 
 <br/><br/>
 
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI"><img src="https://img.shields.io/badge/%E2%AD%90%20STAR-ZYRAXON%20AI-0891B2?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Star ZYRAXON AI"/></a>
-<a href="https://zyraxonai.lovable.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20WEBSITE-EXPLORE-312E81?style=for-the-badge" alt="Website"/></a>
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/tree/main/MCP%20Hub"><img src="https://img.shields.io/badge/%F0%9F%94%8C%20MCP%20HUB-BROWSE-8B5CF6?style=for-the-badge" alt="MCP Hub"/></a>
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/issues"><img src="https://img.shields.io/badge/%F0%9F%92%AC%20FEEDBACK-OPEN%20AN%20ISSUE-164E63?style=for-the-badge" alt="Issues"/></a>
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI"><img src="https://img.shields.io/badge/%E2%AD%90%20STAR%20THE%20REPO-0891B2?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Star the repo"/></a>
+<a href="https://zyraxonai.lovable.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20WEBSITE-312E81?style=for-the-badge" alt="Website"/></a>
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/blob/main/MCP%20Hub/ALL%20MCP.md"><img src="https://img.shields.io/badge/%F0%9F%94%8C%208%2C202%20MCP%20SERVERS-8B5CF6?style=for-the-badge" alt="Browse 8,202 MCP servers"/></a>
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/issues"><img src="https://img.shields.io/badge/%F0%9F%92%AC%20FEEDBACK-164E63?style=for-the-badge" alt="Open an issue"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TOOLS-888-0891B2?style=flat-square&labelColor=0B1220" alt="888 tools"/>
-<img src="https://img.shields.io/badge/MCP%20SERVERS-XXXX-8B5CF6?style=flat-square&labelColor=0B1220" alt="MCP servers"/>
+<img src="https://img.shields.io/badge/MCP%20SERVERS-8%2C202-8B5CF6?style=flat-square&labelColor=0B1220" alt="8,202 MCP servers"/>
+<img src="https://img.shields.io/badge/TOOLS%20OBSERVED-64K%2B-0891B2?style=flat-square&labelColor=0B1220" alt="64K+ tools observed across the MCP catalog"/>
+<img src="https://img.shields.io/badge/AGENT%20TOOLS-888-38BDF8?style=flat-square&labelColor=0B1220" alt="888 agent tools"/>
 <img src="https://img.shields.io/badge/AGENT%20MODES-11-312E81?style=flat-square&labelColor=0B1220" alt="11 agent modes"/>
-<img src="https://img.shields.io/badge/CATEGORIES-63-164E63?style=flat-square&labelColor=0B1220" alt="63 categories"/>
 <img src="https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=38BDF8&labelColor=0B1220&label=STARS" alt="Stars"/>
 <img src="https://img.shields.io/github/forks/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=8B5CF6&labelColor=0B1220&label=FORKS" alt="Forks"/>
 
@@ -58,8 +58,8 @@ It plans the steps, picks the right tools, runs them, reads what came back, fixe
 
 | 🧰 | 🔌 | 🎛️ | 🧠 |
 |:---:|:---:|:---:|:---:|
-| **888 tools** | **XXXX MCP servers** | **11 agent modes** | **Your model** |
-| across 63 categories | one-click connect | plan · build · explore · auto and more | plug in the brain you prefer |
+| **888 tools** | **8,202 MCP servers** | **11 agent modes** | **Your model** |
+| across 63 categories | one catalog, one place | plan · build · explore · auto and more | plug in the brain you prefer |
 
 | 🖥️ | 🤝 | 🌍 | 🔓 |
 |:---:|:---:|:---:|:---:|
@@ -72,20 +72,110 @@ It plans the steps, picks the right tools, runs them, reads what came back, fixe
 
 <br/>
 
-## 🔌 XXXX MCP servers, ready to connect
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:0891B2,50:8B5CF6,100:0891B2" width="100%" alt=""/>
+</div>
 
-MCP servers are the agent's **hands**. More hands, more power. ZYRAXON's MCP Hub brings **XXXX MCP servers** together from the official MCP registry and other public directories, so your agent can reach the tools you already use.
+<br/>
 
-Every server connects the way it needs to, and ZYRAXON shows you only the step that matters:
+## 🔌 The MCP Hub: 8,202 servers
 
-| If the server needs… | What you'll see |
-|---|---|
-| 🌐 **A browser sign-in** | ZYRAXON opens the login page, you approve, you're connected |
-| 🔑 **An API key** | A short form asks for the key and keeps it masked |
-| 🔗 **Your own URL** | You paste your instance address and go |
-| ⚡ **Nothing at all** | One click, connected |
+MCP servers are the agent's **hands**. More hands, more power. The ZYRAXON MCP Hub puts **8,202 MCP servers** in one catalog:
 
-[**Browse the full MCP list →**](https://github.com/onelpawarai-X/ZYRAXON-AI/blob/main/MCP%20Hub/ALL%20MCP.md)
+- **8,094 servers** collected from the public MCP registry, each one tagged with **how far it was tested**
+- **108 hand-curated apps** (Notion, Linear, Atlassian and more) with setup steps and guides
+- **17 categories** and **64,000+ tools** observed across the catalog
+
+<div align="center">
+
+| 8,202 | 8,094 | 108 | 17 | 64K+ |
+|:---:|:---:|:---:|:---:|:---:|
+| **total entries** | **from the public registry** | **hand-curated** | **categories** | **tools observed** |
+
+</div>
+
+> The full list lives in one file, generated by script from the catalog: **[`MCP Hub/ALL MCP.md`](https://github.com/onelpawarai-X/ZYRAXON-AI/blob/main/MCP%20Hub/ALL%20MCP.md)**
+
+### 🔑 Every server connects the way it needs to
+
+ZYRAXON shows you only the step that matters:
+
+| If the server needs… | Servers | What you'll see |
+|---|---:|---|
+| ⚡ **Nothing at all** | 4,679 | Press **Connect**. The tools are live. |
+| 🌐 **A browser sign-in** | 3,105 | A sign-in page opens, you approve, you're in. |
+| 🔑 **An API key** | 228 | A short form asks for the key. |
+| 🔗 **Your own address** | 82 | You paste your instance URL and go. |
+
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {"pie1": "#0891B2", "pie2": "#8B5CF6", "pie3": "#38BDF8", "pie4": "#312E81", "pieTitleTextSize": "18px", "pieSectionTextColor": "#ffffff"}}}%%
+pie showData title How the 8,094 registry servers connect
+    "No sign-in needed" : 4679
+    "Browser sign-in" : 3105
+    "API key" : 228
+    "Your own address" : 82
+```
+
+### 🧪 How far each server was tested
+
+Nothing here is marked "works" on faith. Every registry server carries a label for **how far the check went**:
+
+| Proof level | Servers | What was proven |
+|---|---:|---|
+| ✅ **full** | 2,989 | `initialize`, `tools/list` and a read-only `tools/call` all answered |
+| 🟢 **tools_list** | 1,391 | `initialize` and `tools/list` answered |
+| 🔐 **auth_discovery** | 3,105 | a `401` was followed by a working sign-in discovery document |
+| 🚀 **launched** | 228 | the package resolved, started, then asked for its key |
+| 📍 **declared** | 82 | the endpoint is reachable but needs a value only you have |
+| ⏳ **pending** | 299 | local packages listed, proof not yet recorded |
+
+**7,795 of the 8,094 registry servers already carry recorded proof.** The remaining 299 are being worked through, and the label on each row tells you exactly where it stands.
+
+### 📦 How servers install
+
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {"pie1": "#0891B2", "pie2": "#8B5CF6", "pie3": "#38BDF8", "pie4": "#312E81", "pieSectionTextColor": "#ffffff"}}}%%
+pie showData title Install kinds
+    "Remote HTTP (nothing to install locally)" : 7567
+    "npx (npm package)" : 217
+    "uvx (PyPI package)" : 185
+    "docker (container image)" : 125
+```
+
+<details>
+<summary><b>📂 See all 17 categories</b></summary>
+
+<br/>
+
+| Category | Servers |
+|---|---:|
+| AI & ML | 2,293 |
+| General | 2,076 |
+| Web & Search | 1,367 |
+| Developer Tools | 731 |
+| Communication | 327 |
+| Data & Analytics | 277 |
+| Finance & Crypto | 213 |
+| Productivity & Docs | 164 |
+| Design & Media | 149 |
+| Maps & Travel | 121 |
+| Databases | 95 |
+| Business & CRM | 79 |
+| Cloud & Infrastructure | 64 |
+| Security | 51 |
+| Knowledge & Memory | 44 |
+| Files & Storage | 34 |
+| IoT & Hardware | 9 |
+
+</details>
+
+[**→ Browse the full MCP catalog**](https://github.com/onelpawarai-X/ZYRAXON-AI/blob/main/MCP%20Hub/ALL%20MCP.md)
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:0891B2,50:8B5CF6,100:0891B2" width="100%" alt=""/>
+</div>
 
 <br/>
 
@@ -94,6 +184,7 @@ Every server connects the way it needs to, and ZYRAXON shows you only the step t
 > [!IMPORTANT]
 > **The ZYRAXON Model Provider is paused on purpose.**
 > We will switch on our own provider only when this repository reaches **100,000 GitHub stars**. Until then, the provider endpoint replies with a short notice saying exactly this.
+>
 > **Want it sooner? [Star the repo](https://github.com/onelpawarai-X/ZYRAXON-AI) and share it.** Every star moves the date closer.
 
 The ten-model lineup (**Apex · Matrix · Pulse · Titan · Neural · Codex · Visionary · Cyber · Quantum · Genesis**) is waiting for that day.
@@ -118,7 +209,7 @@ I don't want to carry this alone. ZYRAXON is open source, and the next chapter i
 
 | | |
 |---|---|
-| 🧪 **Test** | Try an MCP server and tell me what breaks |
+| 🧪 **Test** | Connect a few MCP servers and tell me what breaks |
 | 🐛 **Report** | Open an issue for any bug or idea |
 | 🔌 **Build** | Send a pull request with a tool or an integration |
 | 📝 **Write** | Improve the docs, in English or Bengali |
@@ -156,8 +247,10 @@ Student, senior engineer, or just curious: **there is a place for you here.**
 
 ### **Think beyond the prompt. Build beyond the answer.**
 
+[**GitHub**](https://github.com/onelpawarai-X/ZYRAXON-AI) · [**Website**](https://zyraxonai.lovable.app/) · [**MCP Hub**](https://github.com/onelpawarai-X/ZYRAXON-AI/tree/main/MCP%20Hub) · [**Agent Ecosystem Hub**](https://agent-ecosystem-hub.lovable.app/)
+
 <sub>ZYRAXON AI © 2026 · See the repository for license and terms.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0891B2,50:312E81,100:030712" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0891B2,50:312E81,100:030712" width="100%" alt=""/>
 
 </div>
