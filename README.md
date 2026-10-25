@@ -1,110 +1,69 @@
+<div align="center">
 
 <a href="https://github.com/onelpawarai-X/ZYRAXON-AI">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ZYRAXON%20AI&fontSize=68&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:030712,35:071B3A,70:312E81,100:0891B2" width="100%" alt="ZYRAXON AI animated banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ZYRAXON%20AI&fontSize=68&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:030712,35:071B3A,70:312E81,100:0891B2" width="100%" alt="ZYRAXON AI banner"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=AUTONOMOUS+AI+AGENT+ENGINEERING;10+BRANDED+MODELS.+ONE+PROVIDER.;REASON+%E2%80%A2+EXECUTE+%E2%80%A2+OBSERVE+%E2%80%A2+VERIFY;OPEN+SOURCE+%C2%B7+MULTIMODAL+%C2%B7+DEVELOPER+FIRST" alt="Animated ZYRAXON AI tagline"/>
-
-<br/>
-
-<a href="https://zyraxonai.lovable.app/"><img src="https://img.shields.io/badge/EXPLORE-ZYRAXON%20AI-071B3A?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="Explore ZYRAXON AI"/></a>
-<a href="https://zyraxonai.lovable.app/providers"><img src="https://img.shields.io/badge/MODEL%20PROVIDER-10%20BRANDED%20MODELS-312E81?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF" alt="Model Provider"/></a>
-<a href="https://zyraxonai.lovable.app/docs/provider-overview"><img src="https://img.shields.io/badge/DEVELOPER-DOCUMENTATION-164E63?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF" alt="Documentation"/></a>
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI"><img src="https://img.shields.io/badge/OPEN%20SOURCE-VIEW%20THE%20CODE-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Source code"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=You+say+the+goal.+The+agent+does+the+work.;888+tools+%C2%B7+108+MCP+integrations+%C2%B7+11+agent+modes;Built+alone+by+a+student+from+Bangladesh;Open+source.+Bring+your+own+model." alt="ZYRAXON AI tagline"/>
 
 <br/><br/>
 
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI"><img src="https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=38BDF8&label=STARS" alt="GitHub stars"/></a>
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI"><img src="https://img.shields.io/github/forks/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=8B5CF6&label=FORKS" alt="GitHub forks"/></a>
-<a href="https://github.com/onelpawarai-X/ZYRAXON-AI"><img src="https://img.shields.io/github/license/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=A78BFA" alt="License"/></a>
-<a href="https://komarev.com/ghpvc/?username=onelpawarai-X"><img src="https://komarev.com/ghpvc/?username=onelpawarai-X&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/></a>
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI"><img src="https://img.shields.io/badge/TRY-ZYRAXON%20AI-0891B2?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Try ZYRAXON AI"/></a>
+<a href="https://zyraxonai.lovable.app/"><img src="https://img.shields.io/badge/WEBSITE-EXPLORE-312E81?style=for-the-badge" alt="Website"/></a>
+<a href="https://zyraxonai.lovable.app/docs/provider-overview"><img src="https://img.shields.io/badge/DOCS-READ-164E63?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF" alt="Docs"/></a>
 
-### INTELLIGENCE IS MORE THAN AN ANSWER.
+<br/><br/>
 
-**Building AI systems that can reason, use tools, execute workflows, and verify outcomes.**
-
-*An open-source AI engineering project exploring autonomous agents, model orchestration, and developer-focused AI infrastructure.*
-
-[Explore the Platform](https://zyraxonai.lovable.app/) · [Explore the Repository](https://github.com/onelpawarai-X/ZYRAXON-AI) · [Explore the Model Provider](https://zyraxonai.lovable.app/providers)
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI"><img src="https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=38BDF8&label=STARS" alt="Stars"/></a>
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI"><img src="https://img.shields.io/github/forks/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=8B5CF6&label=FORKS" alt="Forks"/></a>
+<a href="https://github.com/onelpawarai-X/ZYRAXON-AI/issues"><img src="https://img.shields.io/github/issues/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=0891B2&label=ISSUES" alt="Issues"/></a>
 
 </div>
 
 ---
 
-## ◈ THE VISION
+## 👋 Hi, I'm Sayidi
 
-AI should do more than generate text. A useful AI system should be able to understand a goal, plan the steps, select suitable tools, act on results, recover from errors, and verify whether the task was completed.
+I'm a student from Bangladesh. While the world's biggest companies race to build AI agents, I asked myself one question:
 
-**ZYRAXON AI is built around that engineering philosophy.**
+> **Can one person, with one laptop and no team, build a real AI agent engine?**
 
-The project brings together autonomous-agent workflows, tool integrations, model orchestration, multimodal interactions, and developer-oriented infrastructure in an evolving ecosystem.
+I tried. The answer is **ZYRAXON AI**: an open-source desktop agent that doesn't just answer. **It does the work.**
 
-## ◈ ZYRAXON MODEL PROVIDER
+---
 
-<div align="center">
+## ⚡ What it does
 
-### TEN BRANDED MODELS. ONE UNIFIED API.
+A chatbot gives you words. ZYRAXON takes a goal, **plans** the steps, **picks the right tools**, **runs them**, **reads the results**, fixes its own mistakes, and **checks that the job is actually done**.
 
-**A familiar OpenAI-compatible interface for the ZYRAXON model family.**
-
-<a href="https://zyraxonai.lovable.app/providers"><img src="https://img.shields.io/badge/EXPLORE-MODEL%20CATALOGUE-312E81?style=for-the-badge" alt="Explore model catalogue"/></a>
-<a href="https://zyraxonai.lovable.app/docs/provider-overview"><img src="https://img.shields.io/badge/READ-PROVIDER%20DOCS-0891B2?style=for-the-badge" alt="Provider documentation"/></a>
-
-</div>
-
-The ZYRAXON Model Provider presents ten branded model identities through a unified API interface. Developers can use familiar chat-completion patterns and consult the live provider catalogue for current model availability and supported capabilities.
-
-**Provider highlights**
-- **Unified API interface** for model discovery and chat completions.
-- **Ten branded model identities** for different intended workloads.
-- **Streaming-oriented workflows** where supported by the endpoint.
-- **Multimodal request formats** for supported media and model combinations.
-- **Capability-aware routing and fallback behavior**, as described by the provider documentation.
-
-### API endpoints
-
-| Operation | Endpoint |
+| | |
 |---|---|
-| API base URL | `https://zyraxonai.lovable.app/api/public/zyraxon/v1` |
-| List models | `GET /models` |
-| Chat completions | `POST /chat/completions` |
+| 🧰 **888 tools** | 63 categories: coding, security, data, automation, device control and more |
+| 🔌 **108 MCP integrations** | and growing fast (see below) |
+| 🎛️ **11 agent modes** | plan, build, explore, auto and more, so you pick the mode that fits the job |
+| 🧠 **Your model, your choice** | plug in the model you want as the agent's brain |
+| 🖥️ **Three ways to use it** | desktop app, terminal UI, and an SDK |
+| 🤝 **Sub-agents** | several agents work in parallel under one supervisor |
 
-**List available models**
-```http
-GET https://zyraxonai.lovable.app/api/public/zyraxon/v1/models
-```
+**If something can be controlled through commands, APIs or tools, a ZYRAXON agent can drive it.** The few things that truly need human hands stay with a human. The agent handles the rest.
 
-**Create a chat completion**
-```http
-POST https://zyraxonai.lovable.app/api/public/zyraxon/v1/chat/completions
-```
+---
 
-### The ten-model lineup
+## 🚀 Now building: 5000+ MCP servers
 
-| Model | Intended focus | Advertised context |
-|---|---|---:|
-| **ZYRAXON Apex** | Flagship reasoning | 1M tokens |
-| **ZYRAXON Matrix** | Vision and reasoning | 1M tokens |
-| **ZYRAXON Pulse** | Low-latency, long-input tasks | 262K tokens |
-| **ZYRAXON Titan** | Long outputs and multimodal workloads | 1M tokens |
-| **ZYRAXON Neural** | General-purpose reasoning | 200K tokens |
-| **ZYRAXON Codex** | Code generation and repair | 200K tokens |
-| **ZYRAXON Visionary** | Image, video, and PDF workflows | 200K tokens |
-| **ZYRAXON Cyber** | Text and supported media workflows | 200K tokens |
-| **ZYRAXON Quantum** | Long-document reasoning | 1M tokens |
-| **ZYRAXON Genesis** | Experimental capabilities | 200K tokens |
+MCP servers are the agent's hands, and more hands mean more power. I'm bringing **5000+ MCP servers** into ZYRAXON from the official MCP registry and other directories.
 
-*Context sizes and modality labels reflect the supplied provider specifications. Check the live catalogue for current availability, limits, and supported features.*
+- **One-click install** for each server
+- The **right connect step** every time: browser login, API key form, or nothing at all
+- Only servers that **really work** make it into the catalog
 
-### Quickstart — JavaScript
+🛠️ *Work in progress. Follow the repo to watch it grow.*
 
-Install the OpenAI JavaScript SDK:
+---
 
-```bash
-npm install openai
-```
+## 🧪 Try it in 30 seconds
 
-Example client setup:
+Talk to the ZYRAXON model API with the standard OpenAI client:
 
 ```javascript
 import OpenAI from "openai";
@@ -114,147 +73,51 @@ const client = new OpenAI({
   apiKey: process.env.ZYRAXON_API_KEY || "not-needed",
 });
 
-const response = await client.chat.completions.create({
+const res = await client.chat.completions.create({
   model: "zyraxon-apex",
-  messages: [
-    {
-      role: "user",
-      content: "Explain how an autonomous AI agent works.",
-    },
-  ],
+  messages: [{ role: "user", content: "Explain how an autonomous AI agent works." }],
 });
 
-console.log(response.choices[0].message.content);
+console.log(res.choices[0].message.content);
 ```
 
-> **Authentication:** This example follows the supplied public quickstart pattern. Verify the endpoint's current authentication requirements, rate limits, and access policy in the official documentation before using it in production. Never expose a private API key in client-side code.
-
-**Provider links:** [Model Dashboard](https://zyraxonai.lovable.app/providers) · [Quickstart](https://zyraxonai.lovable.app/providers#quickstart) · [Provider Documentation](https://zyraxonai.lovable.app/docs/provider-overview)
+Ten branded models are available through one API. Check the [live catalogue](https://zyraxonai.lovable.app/providers) for current models and limits.
 
 ---
 
-## ◈ MULTIMODAL AI
+## 🌍 Build this with me
 
-### Text and supported media, depending on the selected model
+I don't want to carry this alone. ZYRAXON is open source and the next chapter is better built together.
 
-| Modality | Example workflows |
-|---|---|
-| **Text** | Questions, explanations, and structured responses |
-| **Images** | Visual interpretation and chart analysis |
-| **Audio** | Supported audio-input workflows |
-| **Video** | Video understanding with supported processing |
-| **Documents** | PDF and document analysis where supported |
+- 🧪 **Test** an MCP server and tell me what breaks
+- 🐛 **Open an issue** for any bug or idea
+- 🔌 **Send a pull request** with a tool or integration
+- 📝 **Improve the docs**, in English or Bengali
+- ⭐ **Leave a star** so more people can find it
 
-### Example — vision request
-
-```javascript
-const response = await client.chat.completions.create({
-  model: "zyraxon-matrix",
-  messages: [
-    {
-      role: "user",
-      content: [
-        { type: "text", text: "Describe the chart and its main trend." },
-        {
-          type: "image_url",
-          image_url: {
-            url: "data:image/png;base64,YOUR_IMAGE_BASE64",
-          },
-        },
-      ],
-    },
-  ],
-});
-
-console.log(response.choices[0].message.content);
-```
-
-Replace `YOUR_IMAGE_BASE64` with a valid image payload. Confirm supported formats, payload limits, and model compatibility in the provider documentation.
+Student, senior engineer, or just curious: there's a place for you here.
 
 ---
-
-## ◈ AUTONOMOUS AGENT ENGINEERING
-
-ZYRAXON AI focuses on the system surrounding the model: helping transform a user's goal into a workflow that can use tools, observe results, and validate outcomes.
-
-- **Goal-oriented execution** — turn user intent into actionable steps.
-- **Tool integration** — connect AI reasoning to external services and execution environments.
-- **Multi-agent orchestration** — coordinate specialized agents for larger tasks.
-- **Execution and observation** — use tool results to inform subsequent actions.
-- **Failure recovery** — handle errors and revise or retry steps where appropriate.
-- **Verification** — check results rather than assuming every generated answer means success.
-- **Developer extensibility** — support an ecosystem that can evolve through integrations and contributions.
-
-These principles describe the project's engineering direction; consult the source code and release notes to evaluate the implementation in a particular version.
-
-[**Explore the source code →**](https://github.com/onelpawarai-X/ZYRAXON-AI)
-
----
-
-## ◈ PROJECT ECOSYSTEM
-
-| Resource | Description |
-|---|---|
-| **ZYRAXON AI** | Main AI agent platform and repository |
-| **ZYRAXON Model Provider** | Ten branded model identities through one API interface |
-| **MCP Hub** | Model Context Protocol integration work |
-| **ZYRAXON Pro** | Pro-oriented platform experience |
-| **Agent Ecosystem Hub** | Agent ecosystem and marketplace initiative |
 
 <div align="center">
 
-[Main Platform](https://zyraxonai.lovable.app/) · [Pro Platform](https://zyraxon-pro.ai.studio/) · [Model Provider](https://zyraxonai.lovable.app/providers) · [MCP Hub Source](https://github.com/onelpawarai-X/ZYRAXON-AI/tree/main/MCP%20Hub) · [Agent Ecosystem Hub](https://agent-ecosystem-hub.lovable.app/)
+### Quick links
 
-</div>
+[**GitHub Repo**](https://github.com/onelpawarai-X/ZYRAXON-AI) · [**Website**](https://zyraxonai.lovable.app/) · [**Model Provider**](https://zyraxonai.lovable.app/providers) · [**MCP Hub**](https://github.com/onelpawarai-X/ZYRAXON-AI/tree/main/MCP%20Hub) · [**Agent Ecosystem Hub**](https://agent-ecosystem-hub.lovable.app/)
 
----
-
-## ◈ GITHUB ENGINEERING METRICS
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/onelpawarai-X">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=onelpawarai-X&show_icons=true&theme=transparent&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=onelpawarai-X&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8" alt="GitHub stats"/>
 </a>
 <a href="https://github.com/onelpawarai-X">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onelpawarai-X&layout=compact&theme=transparent&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=94A3B8" alt="Most used languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onelpawarai-X&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Top languages"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/onelpawarai-X">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=onelpawarai-X&theme=transparent&hide_border=true&background=050816&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
-</a>
+**Think beyond the prompt. Build beyond the answer.**
+
+<sub>ZYRAXON AI © 2026 · See the repository for license and terms.</sub>
 
 </div>
-
-*Metrics are supplied by third-party services and may be affected by caching, availability, or API limits.*
-
----
-
-## ◈ BUILD WITH US
-
-<div align="center">
-
-### THE NEXT CHAPTER IS BUILT TOGETHER.
-
-**Developers, researchers, designers, testers, and open-source contributors are welcome.**
-
-</div>
-
-Ways to contribute:
-- **Code:** improve features, fix bugs, and submit pull requests.
-- **Test:** reproduce issues and report clear, actionable feedback.
-- **Documentation:** improve setup guides, examples, and API instructions.
-- **Integrations:** experiment with tools, models, and compatible workflows.
-- **Community:** share demos, tutorials, ideas, and independent reviews.
-
-**Explore. Build. Contribute. Improve.**
-
-### ZYRAXON AI
-
-**Autonomous Agents · Model Infrastructure · Open-Source Engineering**
-
-*Think beyond the prompt. Build beyond the answer.*
-
-<sub>ZYRAXON AI INC. © 2026 · See the repository for the applicable license and terms.</sub>
