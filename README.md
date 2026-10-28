@@ -253,4 +253,4 @@ Student, senior engineer, or just curious: **there is a place for you here.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0891B2,50:312E81,100:030712" width="100%" alt=""/>
 
-</div>
+</div> https://www.producthunt.com/products/zyraxon-ai-2?utm_source=other&utm_medium=social
